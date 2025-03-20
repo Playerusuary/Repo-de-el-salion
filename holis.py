@@ -16,3 +16,5 @@ def resolver_ecuacion():
 
 # Llamar a la función para resolver la ecuación
 resolver_ecuacion()
+
+##Es para ver si me deja crear cambios (Asthon)
